@@ -4,4 +4,5 @@ This is a data science project
 This is the capstone project for DS 150.
 
 # Dataset
-sd
+
+My dataset looks like this.
